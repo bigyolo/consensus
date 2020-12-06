@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Nodeinfo Chinesesimple="节点分组信息管理">
+    <Group0 Chinesesimple="第0组">
+        <NodeIndex1 NodeID="N00" NodeAddr="192.168.242.131:6001"/>
+        <NodeIndex2 NodeID="N01" NodeAddr="192.168.242.131:6002"/>
+        <NodeIndex3 NodeID="N02" NodeAddr="192.168.242.131:6003"/>
+        <NodeIndex4 NodeID="N03" NodeAddr="192.168.242.131:6004"/>
+    </Group0>
+    <Group1 Chinesesimple="第1组">
+        <NodeIndex1 NodeID="N10" NodeAddr="192.168.242.129:8234"/>
+        <NodeIndex2 NodeID="N11" NodeAddr="192.168.242.131:6000"/>
+        <NodeIndex3 NodeID="N12" NodeAddr="192.168.242.131:6000"/>
+        <NodeIndex4 NodeID="N13" NodeAddr="192.168.242.131:6000"/>
+    </Group1>
+    <Group2 Chinesesimple="第2组">
+        <NodeIndex1 NodeID="N20" NodeAddr="192.168.242.131:6000"/>
+        <NodeIndex2 NodeID="N21" NodeAddr="192.168.242.131:6000"/>
+        <NodeIndex3 NodeID="N22" NodeAddr="192.168.242.131:6000"/>
+    </Group2>
+    <Group3 Chinesesimple="第3组">
+        <NodeIndex1 NodeID="N30" NodeAddr="192.168.242.131:6000"/>
+        <NodeIndex2 NodeID="N31" NodeAddr="192.168.242.131:6000"/>
+        <NodeIndex3 NodeID="N32" NodeAddr="192.168.242.131:6000"/>
+    </Group3>
+    <Group4 Chinesesimple="第4组">
+        <NodeIndex1 NodeID="N40" NodeAddr="192.168.242.131:6000"/>
+        <NodeIndex2 NodeID="N41" NodeAddr="192.168.242.131:6000"/>
+        <NodeIndex3 NodeID="N42" NodeAddr="192.168.242.131:6000"/>
+    </Group4>
+</Nodeinfo>

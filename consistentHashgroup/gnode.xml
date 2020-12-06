@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Nodeinfo Chinesesimple="节点分组信息管理">
+    <Group0 Chinesesimple="第0组">
+        <Nodeindex0 NodeID="N8" NodeAddr="127.0.0.1:6008" EnableUsed="true" SvFlag="true"/>
+        <Nodeindex1 NodeID="N10" NodeAddr="127.0.0.1:6010" EnableUsed="true" SvFlag="true"/>
+        <Nodeindex2 NodeID="N14" NodeAddr="127.0.0.1:6014" EnableUsed="true"/>
+        <Nodeindex3 NodeID="N12" NodeAddr="127.0.0.1:6012" EnableUsed="true"/>
+        <Nodeindex4 NodeID="N4" NodeAddr="127.0.0.1:6004" EnableUsed="true"/>
+        <Nodeindex5 NodeID="N1" NodeAddr="127.0.0.1:6001" EnableUsed="true"/>
+    </Group0>
+    <Group1 Chinesesimple="第1组">
+        <Nodeindex0 NodeID="N8" NodeAddr="127.0.0.1:6008" EnableUsed="true" SvFlag="true"/>
+        <Nodeindex1 NodeID="N11" NodeAddr="127.0.0.1:6011" EnableUsed="true"/>
+        <Nodeindex2 NodeID="N17" NodeAddr="127.0.0.1:6017" EnableUsed="true"/>
+        <Nodeindex3 NodeID="N18" NodeAddr="127.0.0.1:6018" EnableUsed="true"/>
+        <Nodeindex4 NodeID="N0" NodeAddr="127.0.0.1:6100" EnableUsed="true"/>
+    </Group1>
+    <Group2 Chinesesimple="第2组">
+        <Nodeindex0 NodeID="N10" NodeAddr="127.0.0.1:6010" EnableUsed="true" SvFlag="true"/>
+        <Nodeindex1 NodeID="N8" NodeAddr="127.0.0.1:6008" EnableUsed="true" SvFlag="true"/>
+        <Nodeindex2 NodeID="N13" NodeAddr="127.0.0.1:6013" EnableUsed="true"/>
+        <Nodeindex3 NodeID="N16" NodeAddr="127.0.0.1:6016" EnableUsed="true"/>
+        <Nodeindex4 NodeID="N2" NodeAddr="127.0.0.1:6002" EnableUsed="true"/>
+        <Nodeindex5 NodeID="N6" NodeAddr="127.0.0.1:6006" EnableUsed="true"/>
+        <Nodeindex6 NodeID="N19" NodeAddr="127.0.0.1:6019" EnableUsed="true"/>
+        <Nodeindex7 NodeID="N15" NodeAddr="127.0.0.1:6015" EnableUsed="true"/>
+    </Group2>
+    <Group3 Chinesesimple="第3组">
+        <Nodeindex0 NodeID="N10" NodeAddr="127.0.0.1:6010" EnableUsed="true" SvFlag="true"/>
+        <Nodeindex1 NodeID="N7" NodeAddr="127.0.0.1:6007" EnableUsed="true"/>
+        <Nodeindex2 NodeID="N9" NodeAddr="127.0.0.1:6009" EnableUsed="true"/>
+        <Nodeindex3 NodeID="N3" NodeAddr="127.0.0.1:6003" EnableUsed="true"/>
+        <Nodeindex4 NodeID="N5" NodeAddr="127.0.0.1:6005" EnableUsed="true"/>
+    </Group3>
+</Nodeinfo>
+<Leaderset Chinesesimple="记账人列表">
+    <Leader0 nodeid="N4" nodeaddr="127.0.0.1:5000"/>
+    <Leader1 nodeid="N0" nodeaddr="127.0.0.1:5001"/>
+    <Leader2 nodeid="N15" nodeaddr="127.0.0.1:5002"/>
+    <Leader3 nodeid="N3" nodeaddr="127.0.0.1:5003"/>
+</Leaderset>
+

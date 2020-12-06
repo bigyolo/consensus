@@ -1,0 +1,1 @@
+a test for consistHash in build group
