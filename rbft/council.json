@@ -1,0 +1,44 @@
+{
+    "nodes": [
+        {
+            "Group": "0",
+            "nodeaddr": "127.0.0.1:5000",
+            "nodeid": "N0"
+        },
+        {
+            "Group": "1",
+            "nodeaddr": "127.0.0.1:5001",
+            "nodeid": "N4"
+        },
+        {
+            "Group": "2",
+            "nodeaddr": "127.0.0.1:5002",
+            "nodeid": "N6"
+        },
+        {
+            "Group": "3",
+            "nodeaddr": "127.0.0.1:5003",
+            "nodeid": "N11"
+        },
+        {
+            "Group": "4",
+            "nodeaddr": "127.0.0.1:5004",
+            "nodeid": "N12"
+        },
+        {
+            "Group": "5",
+            "nodeaddr": "127.0.0.1:5005",
+            "nodeid": "N15"
+        },
+        {
+            "Group": "6",
+            "nodeaddr": "127.0.0.1:5006",
+            "nodeid": "N20"
+        },
+        {
+            "Group": "7",
+            "nodeaddr": "127.0.0.1:5007",
+            "nodeid": "N23"
+        }
+    ]
+}

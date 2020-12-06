@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Nodeinfo Chinesesimple="节点分组信息管理">
+    <Group0 Chinesesimple="第1组">
+        <NodeIndex0 NodeID="N0" NodeAddr="127.0.0.1:6001"/>
+        <NodeIndex1 NodeID="N1" NodeAddr="127.0.0.1:6002"/>
+        <NodeIndex2 NodeID="N2" NodeAddr="127.0.0.1:6003"/>
+        <!-- <NodeIndex3 NodeID="N13" NodeAddr="127.0.0.1:6004"/>
+        <NodeIndex4 NodeID="N16" NodeAddr="127.0.0.1:6005"/>
+        <NodeIndex5 NodeID="N20" NodeAddr="127.0.0.1:6006"/>  -->
+    </Group0>
+    <Group1 Chinesesimple="第2组">
+        <NodeIndex0 NodeID="N3" NodeAddr="127.0.0.1:7001"/>
+        <NodeIndex1 NodeID="N4" NodeAddr="127.0.0.1:7002"/>
+        <NodeIndex2 NodeID="N5" NodeAddr="127.0.0.1:7003"/>
+        <!-- <NodeIndex3 NodeID="N14" NodeAddr="127.0.0.1:7004"/>
+        <NodeIndex4 NodeID="N17" NodeAddr="127.0.0.1:7005"/>
+        <NodeIndex5 NodeID="N21" NodeAddr="127.0.0.1:7006"/>  -->
+    </Group1>
+    <Group2 Chinesesimple="第3组">
+        <NodeIndex0 NodeID="N6" NodeAddr="127.0.0.1:8001"/>
+        <NodeIndex1 NodeID="N7" NodeAddr="127.0.0.1:8002"/>
+        <NodeIndex2 NodeID="N8" NodeAddr="127.0.0.1:8003"/>
+        <!-- <NodeIndex3 NodeID="N15" NodeAddr="127.0.0.1:8004"/>
+        <NodeIndex4 NodeID="N18" NodeAddr="127.0.0.1:8005"/>
+        <NodeIndex5 NodeID="N22" NodeAddr="127.0.0.1:8006"/> -->
+    </Group2>
+    <Group3 Chinesesimple="第4组">
+        <NodeIndex0 NodeID="N9" NodeAddr="127.0.0.1:9001"/>
+        <NodeIndex1 NodeID="N10" NodeAddr="127.0.0.1:9002"/>
+        <NodeIndex2 NodeID="N11" NodeAddr="127.0.0.1:9003"/>
+        <!-- <NodeIndex3 NodeID="N12" NodeAddr="127.0.0.1:9004"/>
+        <NodeIndex4 NodeID="N19" NodeAddr="127.0.0.1:9005"/>
+        <NodeIndex5 NodeID="N23" NodeAddr="127.0.0.1:9006"/> -->
+    </Group3>
+    <Group4 Chinesesimple="第5组">
+        <NodeIndex0 NodeID="N12" NodeAddr="127.0.0.1:9101"/>
+        <NodeIndex1 NodeID="N13" NodeAddr="127.0.0.1:9102"/>
+        <NodeIndex2 NodeID="N14" NodeAddr="127.0.0.1:9103"/>
+        <!-- <NodeIndex3 NodeID="N19" NodeAddr="127.0.0.1:9104"/>  -->
+    </Group4>
+    <Group5 Chinesesimple="第6组">
+        <NodeIndex0 NodeID="N15" NodeAddr="127.0.0.1:9015"/>
+        <NodeIndex1 NodeID="N16" NodeAddr="127.0.0.1:9016"/>
+        <NodeIndex2 NodeID="N17" NodeAddr="127.0.0.1:9017"/>
+        <!-- <NodeIndex3 NodeID="N19" NodeAddr="127.0.0.1:9104"/> -->
+    </Group5> -->
+    <Group6 Chinesesimple="第7组">
+        <NodeIndex0 NodeID="N18" NodeAddr="127.0.0.1:9018"/>
+        <NodeIndex1 NodeID="N19" NodeAddr="127.0.0.1:9019"/>
+        <NodeIndex2 NodeID="N20" NodeAddr="127.0.0.1:9020"/>
+        <!-- <NodeIndex3 NodeID="N19" NodeAddr="127.0.0.1:9104"/> -->
+    </Group6> 
+    <Group7 Chinesesimple="第8组">
+        <NodeIndex0 NodeID="N21" NodeAddr="127.0.0.1:8018"/>
+        <NodeIndex1 NodeID="N22" NodeAddr="127.0.0.1:8019"/>
+        <NodeIndex2 NodeID="N23" NodeAddr="127.0.0.1:8020"/>
+        <!-- <NodeIndex3 NodeID="N19" NodeAddr="127.0.0.1:9104"/> -->
+    </Group7> 
+</Nodeinfo>

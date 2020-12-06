@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Nodeinfo Chinesesimple="节点信息管理(单机多节点测试)">
+    <NodeIndex0 NodeID="N0" NodeAddr="192.168.242.129:6001"/>
+    <NodeIndex1 NodeID="N1" NodeAddr="192.168.242.129:6002"/>
+    <NodeIndex2 NodeID="N2" NodeAddr="192.168.242.129:6003"/>
+    <!-- <NodeIndex3 NodeID="N3" NodeAddr="192.168.242.129:6004"/>
+    <NodeIndex4 NodeID="N4" NodeAddr="192.168.242.129:6005"/>
+    <NodeIndex5 NodeID="N5" NodeAddr="192.168.242.129:6006"/>
+    <NodeIndex6 NodeID="N6" NodeAddr="192.168.242.129:6007"/>
+    <NodeIndex7 NodeID="N7" NodeAddr="192.168.242.129:6008"/>
+    <NodeIndex8 NodeID="N8" NodeAddr="192.168.242.129:6009"/>
+    <NodeIndex9 NodeID="N9" NodeAddr="192.168.242.129:6010"/>
+    <NodeIndex10 NodeID="N10" NodeAddr="192.168.242.129:6011"/>
+    <NodeIndex11 NodeID="N11" NodeAddr="192.168.242.129:6012"/>
+    <NodeIndex12 NodeID="N12" NodeAddr="192.168.242.129:6013"/>
+    <NodeIndex13 NodeID="N13" NodeAddr="192.168.242.129:6014"/>
+    <NodeIndex14 NodeID="N14" NodeAddr="192.168.242.129:6015"/>
+    <NodeIndex15 NodeID="N15" NodeAddr="192.168.242.129:6016"/>
+    <NodeIndex16 NodeID="N16" NodeAddr="192.168.242.129:6017"/> -->
+</Nodeinfo>
